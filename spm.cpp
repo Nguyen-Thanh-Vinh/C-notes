@@ -1,0 +1,24 @@
+//wkingforACM
+#include<bits/stdc++.h>
+using namespace std;
+ 
+#define fi first
+#define se second
+#define FOR(a, b, c) for(int a = b; a <= c; ++a)
+#define pb push_back
+#define double long double
+ 
+const int MOD = 1e9 + 7;
+const int oo = 1e9;
+const int N = 1e5 + 10;
+ 
+typedef pair<double, int> ii;
+
+ 
+signed main()
+{
+    //freopen("test.inp", "r", stdin);
+    ios_base::sync_with_stdio(false);
+    cin.tie(0); cout.tie(0);
+    
+}
