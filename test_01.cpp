@@ -41,7 +41,6 @@ using namespace std;
 #define SZ(a) ((int) a.size())
 #define ALL(a) begin(a), end(a)
 
-typedef int64_t ll;
 typedef pair<int, int> pii;
 typedef pair<ll, ll> pll;
 typedef vector<int> vi;
