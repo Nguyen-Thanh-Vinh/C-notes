@@ -1,7 +1,6 @@
 -- | Assignment 1: implementing various small functions
 module A01
   ( Day(..)
-  , nextWeekday
   , addTuple
   , productDot
   , maybeMap
